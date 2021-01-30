@@ -1,0 +1,24 @@
+{
+  "name": "salesy",
+  "version": "1.0.0",
+  "description": "A simple sales API implementation implemented with nodejs and postgresql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekene-ezedi/salesy.git"
+  },
+  "author": "Ekene Chris Ezedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekene-ezedi/salesy/issues"
+  },
+  "homepage": "https://github.com/ekene-ezedi/salesy#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "pg": "^8.5.1"
+  }
+}
